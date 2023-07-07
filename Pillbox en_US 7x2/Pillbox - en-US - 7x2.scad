@@ -1,10 +1,10 @@
 /*
-    This work, "Customizable (Multi-) Day Pillbox" (https://www.printables.com/model/12345-customizable-multi-day-pillbox),
+    This work, "Customizable (Multi-) Day Pillbox" (https://www.printables.com/model/522124-customizable-multi-day-pillbox),
     is adapted from "Customizable Pill Dosette Box" (https://www.printables.com/model/70577-customizable-pill-dosette-box)
     by @einarjh (https://www.printables.com/@einarjh_110431),
     used under CC-BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).
     
-    "Customizable (Multi-) Day Pillbox" (https://www.printables.com/model/12345-customizable-multi-day-pillbox)
+    "Customizable (Multi-) Day Pillbox" (https://www.printables.com/model/522124-customizable-multi-day-pillbox)
     is licensed under CC-BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
     by Niels Ganser (https://www.printables.com/@niels_1017960).
 */
